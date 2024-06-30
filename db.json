@@ -1,5 +1,54 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": "fa6b",
+      "name": "Bradford Purdy"
+    },
+    {
+      "id": "86f8",
+      "name": "Francisco Roob"
+    },
+    {
+      "id": "cf5c",
+      "name": "Eddie Cronin"
+    },
+    {
+      "id": "38ab",
+      "name": "Ida Lemke"
+    },
+    {
+      "id": "79fc",
+      "name": "Julian Beahan"
+    },
+    {
+      "id": "924c",
+      "name": "Miss Reginald Leannon"
+    },
+    {
+      "id": "2225",
+      "name": "Angel Zboncak"
+    },
+    {
+      "id": "b316",
+      "name": "Israel Zboncak"
+    },
+    {
+      "id": "826c",
+      "name": "Renee Gislason"
+    },
+    {
+      "id": "515f",
+      "name": "Alvin Reynolds"
+    },
+    {
+      "id": "f1e0",
+      "name": "Willie Bogan"
+    },
+    {
+      "id": "6788",
+      "name": "Shari Pagac"
+    }
+  ],
   "albums": [],
   "photos": []
 }
