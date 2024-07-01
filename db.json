@@ -49,6 +49,22 @@
       "name": "Shari Pagac"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Hiking Trip",
+      "userId": "fa6b"
+    },
+    {
+      "id": "9c22",
+      "userId": "fa6b",
+      "title": "Gorgeous Fresh Towels"
+    },
+    {
+      "id": "6d5b",
+      "userId": "fa6b",
+      "title": "Oriental Plastic Car"
+    }
+  ],
   "photos": []
 }
