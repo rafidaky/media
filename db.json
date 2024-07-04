@@ -47,23 +47,62 @@
     {
       "id": "6788",
       "name": "Shari Pagac"
+    },
+    {
+      "id": "4c45",
+      "name": "Randal Gottlieb"
     }
   ],
   "albums": [
     {
-      "id": 1,
-      "title": "Hiking Trip",
-      "userId": "fa6b"
-    },
-    {
-      "id": "9c22",
-      "userId": "fa6b",
-      "title": "Gorgeous Fresh Towels"
-    },
-    {
       "id": "6d5b",
       "userId": "fa6b",
       "title": "Oriental Plastic Car"
+    },
+    {
+      "id": "34fa",
+      "userId": "fa6b",
+      "title": "Unbranded Steel Bacon"
+    },
+    {
+      "id": "f68f",
+      "userId": "fa6b",
+      "title": "Refined Fresh Sausages"
+    },
+    {
+      "id": "2d40",
+      "userId": "86f8",
+      "title": "Tasty Plastic Car"
+    },
+    {
+      "id": "87d1",
+      "userId": "86f8",
+      "title": "Unbranded Wooden Sausages"
+    },
+    {
+      "id": "99cf",
+      "userId": "fa6b",
+      "title": "Licensed Frozen Hat"
+    },
+    {
+      "id": "9a79",
+      "userId": "fa6b",
+      "title": "Awesome Fresh Shirt"
+    },
+    {
+      "id": "7fa0",
+      "userId": "fa6b",
+      "title": "Fantastic Cotton Shirt"
+    },
+    {
+      "id": "0664",
+      "userId": "fa6b",
+      "title": "Tasty Frozen Shirt"
+    },
+    {
+      "id": "677e",
+      "userId": "fa6b",
+      "title": "Refined Fresh Pizza"
     }
   ],
   "photos": []
