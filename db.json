@@ -1,18 +1,6 @@
 {
   "users": [
     {
-      "id": "fa6b",
-      "name": "Bradford Purdy"
-    },
-    {
-      "id": "86f8",
-      "name": "Francisco Roob"
-    },
-    {
-      "id": "cf5c",
-      "name": "Eddie Cronin"
-    },
-    {
       "id": "38ab",
       "name": "Ida Lemke"
     },
@@ -55,55 +43,61 @@
   ],
   "albums": [
     {
-      "id": "6d5b",
-      "userId": "fa6b",
-      "title": "Oriental Plastic Car"
-    },
-    {
-      "id": "34fa",
-      "userId": "fa6b",
-      "title": "Unbranded Steel Bacon"
-    },
-    {
-      "id": "f68f",
-      "userId": "fa6b",
-      "title": "Refined Fresh Sausages"
-    },
-    {
       "id": "2d40",
-      "userId": "86f8",
+      "userId": "4c45",
       "title": "Tasty Plastic Car"
     },
     {
       "id": "87d1",
-      "userId": "86f8",
+      "userId": "4c45",
       "title": "Unbranded Wooden Sausages"
     },
     {
-      "id": "99cf",
-      "userId": "fa6b",
-      "title": "Licensed Frozen Hat"
-    },
-    {
-      "id": "9a79",
-      "userId": "fa6b",
-      "title": "Awesome Fresh Shirt"
-    },
-    {
-      "id": "7fa0",
-      "userId": "fa6b",
-      "title": "Fantastic Cotton Shirt"
-    },
-    {
-      "id": "0664",
-      "userId": "fa6b",
-      "title": "Tasty Frozen Shirt"
-    },
-    {
       "id": "677e",
-      "userId": "fa6b",
+      "userId": "38ab",
       "title": "Refined Fresh Pizza"
+    },
+    {
+      "id": "dd35",
+      "userId": "b316",
+      "title": "Bespoke Plastic Computer"
+    },
+    {
+      "id": "7143",
+      "userId": "b316",
+      "title": "Refined Wooden Keyboard"
+    },
+    {
+      "id": "822f",
+      "userId": "b316",
+      "title": "Handcrafted Cotton Sausages"
+    },
+    {
+      "id": "134f",
+      "userId": "38ab",
+      "title": "Gorgeous Fresh Table"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "aaf4",
+      "albumId": "677e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=9845"
+    },
+    {
+      "id": "9339",
+      "albumId": "677e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=48782"
+    },
+    {
+      "id": "eea4",
+      "albumId": "677e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=78899"
+    },
+    {
+      "id": "cd88",
+      "albumId": "677e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=50856"
+    }
+  ]
 }
